@@ -4,16 +4,16 @@
 
 ## Day 1
 ### Planning
-- [ ] Review your Starter Code and make sure you understand what code has already been written for you.
+- [X] Review your Starter Code and make sure you understand what code has already been written for you.
 ### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/playlist
-- [ ] Fork this repository to your github account and clone it to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [X] Fork this repository to your github account and clone it to a new workspace
+- [X] Add, commit, and push your changes
+- [X] Make your site live on gh-pages
 
 ### JS
-- [ ] Update the songs array in your project to have at least 4 songs
-- [ ] Create four new arrays to store images_urls, artists, song lengths, and links
+- [X] Update the songs array in your project to have at least 4 songs
+- [X] Create four new arrays to store images_urls, artists, song lengths, and links
 ### html / css
 - [ ] Customize your CSS or add another column
 
